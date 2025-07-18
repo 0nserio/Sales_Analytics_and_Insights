@@ -80,4 +80,4 @@ numpy          # Numerical computing
 
 ---
 
-*This analysis was conducted as part of a data analyst mentorship by Phoenix Ke Analytics interview project, demonstrating skills in data cleaning, exploratory analysis, and business insight generation.*
+*This analysis was part of a data analyst interview project for a mentorship program by Phoenix Ke Analytics, showcasing skills in data cleaning, exploratory analysis, and generating business insights.*
